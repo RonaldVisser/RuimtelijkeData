@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: 5e7137a8-c957-44ad-bf88-dfd06279a33a
-      url: 'https://strong-marigold-5e1e78.netlify.app'
+      url: 'https://ruimtelijkedata.netlify.app'
