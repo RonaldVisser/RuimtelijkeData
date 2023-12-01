@@ -57,3 +57,7 @@ De lijst bronnen hieronder is een overzicht van relevante websites voor het vind
 +-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 | WKO-bodemenergietool. Ruimtelijke tool voor mogelijkheden van bodemenergie. | <https://wkotool.nl/>                                                                                              |
 +-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
+
+```         
+Deze website is voor het laatst bijgewerkt op `r format(Sys.time(), '%d %B %Y')`.
+```
