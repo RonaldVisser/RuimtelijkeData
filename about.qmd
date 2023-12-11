@@ -1,5 +1,6 @@
 ---
 title: "About"
+date: today
 ---
 
 Dit overzicht van bronnen is gemaakt door Ronald Visser voor onderzoekers en studenten die op zoek zijn naar data voor de leefomgeving. Het is uitdrukkelijk bedoeld als een ingang voor verder onderzoek. De bron voor deze webite is: <https://github.com/RonaldVisser/RuimtelijkeData> en daar kunnen via [issues](https://github.com/RonaldVisser/RuimtelijkeData/issues/new) verzoeken worden ingediend voor het toevoegen van data of corrigeren van fouten

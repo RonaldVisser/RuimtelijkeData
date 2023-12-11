@@ -8,6 +8,7 @@ author:
       - name: Saxion University of Applied Sciences
         city: Deventer
         country: Netherlands
+date: today
 ---
 
 De lijst bronnen hieronder is een overzicht van relevante websites voor het vinden van data over de Nederlandse ruimtelijke omgeving, zowel onder als boven de grond. De lijst is niet compleet, maar helpt je wel op weg in het data-landschap. Let op! Er zit geen ordening in de lijst.

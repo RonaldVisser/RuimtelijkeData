@@ -7,7 +7,8 @@ author:
     affiliation:        
       - name: Saxion University of Applied Sciences
         city: Deventer
-        country: Netherlands ---
+        country: Netherlands
+date: today
 ---
 
 De lijst bronnen hieronder is een overzicht van relevante websites voor het vinden van data over de ruimtelijke omgeving in Europa. De lijst is niet compleet, maar helpt je wel op weg in het data-landschap.
@@ -37,7 +38,3 @@ De lijst bronnen hieronder is een overzicht van relevante websites voor het vind
 +------------------------------------------------+-------------------------------------------------+
 |                                                |                                                 |
 +------------------------------------------------+-------------------------------------------------+
-
-```         
-Deze website is voor het laatst bijgewerkt op `r format(Sys.time(), '%d %B %Y')`.
-```
