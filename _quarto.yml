@@ -3,6 +3,9 @@ project:
 
 website:
   title: "Ruimtelijke Data voor de leefomgeving"
+  site-url: "https://ruimtelijkedata.netlify.app"
+  repo-url: https://github.com/RonaldVisser/RuimtelijkeData
+  repo-actions: [issue]
   navbar:
     left:
       - href: index.qmd
