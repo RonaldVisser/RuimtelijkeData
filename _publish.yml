@@ -1,4 +1,4 @@
 - source: project
   netlify:
-    - id: 5e7137a8-c957-44ad-bf88-dfd06279a33a
+    - id: c78fdc8c-e413-405d-85d6-344ff824787d
       url: 'https://ruimtelijkedata.netlify.app'

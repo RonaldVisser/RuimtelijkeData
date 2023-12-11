@@ -13,9 +13,13 @@ author:
 De lijst bronnen hieronder is een overzicht van relevante websites voor het vinden van data over de ruimtelijke omgeving in Europa. De lijst is niet compleet, maar helpt je wel op weg in het data-landschap.
 
 +------------------------------------------------+-------------------------------------------------+
-| Leverancier (omschrijving)                     | Link                                            |
+| Leverancier (alfabetisch)                      | Link                                            |
 +================================================+=================================================+
+| European Data (official portal)                | <https://data.europa.eu>                        |
++------------------------------------------------+-------------------------------------------------+
 | European Environment Agency                    | <https://www.eea.europa.eu/en/datahub>          |
++------------------------------------------------+-------------------------------------------------+
+| European Soil Data Centre (ESDAC)              | <https://esdac.jrc.ec.europa.eu/>               |
 +------------------------------------------------+-------------------------------------------------+
 | European Space Agency                          | <https://earth.esa.int/eogateway/catalog>       |
 +------------------------------------------------+-------------------------------------------------+
