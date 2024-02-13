@@ -1,0 +1,19 @@
+---
+title: "Wereldwijde ruimtelijke data" 
+author:
+  - name: Ronald Visser
+    orcid: 0000-0001-6966-1729
+    email: r.m.visser@saxion.nl
+    affiliation:        
+      - name: Saxion University of Applied Sciences
+        city: Deventer
+        country: Netherlands
+date: today
+---
+
+De lijst bronnen hieronder is een overzicht van relevante websites voor het vinden van data over de ruimtelijke omgeving in de wereld. De lijst is niet compleet, maar helpt je wel op weg in het data-landschap.
+
+| Leverancier (alfabetisch) | Link                                        |
+|---------------------------|---------------------------------------------|
+| Living Atlas (ESRI)       | <https://livingatlas.arcgis.com/en/browse/> |
+|                           |                                             |

@@ -12,6 +12,8 @@ website:
         text: Nederlandse gegevens
       - href: europa.qmd
         text: Europese gegevens
+      - href: wereld.qmd
+        text: Gegevens over de wereld
       - about.qmd
 
 format:

@@ -45,6 +45,8 @@ De lijst bronnen hieronder is een overzicht van relevante websites voor het vind
 | DINOloket (ondergrond van TNO)                                              | <https://www.dinoloket.nl/>                                                                                        |
 +-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 | Overheid: gemeente/provincie/waterschappen/rijk                             | <https://data.overheid.nl/datasets> (diverse datasets)                                                             |
+|                                                                             |                                                                                                                    |
+|                                                                             | <https://www.zichtopnl.nl/datafundament/dataproducten/default.aspx> (overzicht van data bronnen van de overheid)   |
 +-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 | Steden, sommige steden bieden ook data aan, zoals bijvoorbeeld:             | <https://maps.amsterdam.nl/open_geodata/>                                                                          |
 +-----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
