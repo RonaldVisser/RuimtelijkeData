@@ -6,6 +6,8 @@ website:
   site-url: "https://ruimtelijkedata.netlify.app"
   repo-url: https://github.com/RonaldVisser/RuimtelijkeData
   repo-actions: [issue]
+  google-analytics: G-CR8FTPF4WC
+  cookie-consent: TRUE
   navbar:
     left:
       - href: index.qmd
