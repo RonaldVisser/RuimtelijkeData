@@ -13,7 +13,20 @@ date: today
 
 De lijst bronnen hieronder is een overzicht van relevante websites voor het vinden van data over de ruimtelijke omgeving in de wereld. De lijst is niet compleet, maar helpt je wel op weg in het data-landschap.
 
-| Leverancier (alfabetisch) | Link                                        |
+| Leverancier (alfabetisch)                                                                    | Link                                                                                                                   |
 |---------------------------|---------------------------------------------|
-| Living Atlas (ESRI)       | <https://livingatlas.arcgis.com/en/browse/> |
-|                           |                                             |
+| Living Atlas (ESRI)                                                                          | <https://livingatlas.arcgis.com/en/browse/>                                                                            |
+| Grenzen                                                                                      | <https://geodata.state.gov/geonetwork/srv/eng/catalog.search#/home>                                                    |
+| Grenzen (IPUMS)                                                                              | <https://international.ipums.org/international/gis.shtml>                                                              |
+| Global Administrative Unit Layers (GAUL: FAO)                                                | <https://data.apps.fao.org/map/catalog/srv/eng/catalog.search?id=12691#/metadata/9c35ba10-5649-41c8-bdfc-eb78e9e65654> |
+| Natural Earth                                                                                | <https://www.naturalearthdata.com/>                                                                                    |
+| GeoBoundaries                                                                                | <https://www.geoboundaries.org/>                                                                                       |
+| GADM maps and data                                                                           | <https://gadm.org/>                                                                                                    |
+| The Humanitarian Data Exchange                                                               | <https://data.humdata.org/>                                                                                            |
+| Harvard Dataverse                                                                            | <https://dataverse.harvard.edu/>                                                                                       |
+| Global Health Data Exchange                                                                  | <https://ghdx.healthdata.org/>                                                                                         |
+| The awesome-gee-community-catalog, a treasure trove of community-sourced geospatial datasets | <https://gee-community-catalog.org/>                                                                                   |
+| Google earth: A planetary-scale platform for Earth science data & analysis                   | <https://earthengine.google.com/>                                                                                      |
+| AIDDATA                                                                                      | <https://geo.aiddata.org/>                                                                                             |
+| Dryad: open research data                                                                    | <https://datadryad.org/stash>                                                                                          |
+| Zenodo: open research data                                                                   | <https://zenodo.org/>                                                                                                  |
