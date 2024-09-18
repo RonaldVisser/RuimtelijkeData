@@ -14,7 +14,7 @@ date: today
 De lijst bronnen hieronder is een overzicht van relevante websites voor het vinden van data over de ruimtelijke omgeving in de wereld. De lijst is niet compleet, maar helpt je wel op weg in het data-landschap.
 
 | Leverancier (alfabetisch)                                                                    | Link                                                                                                                   |
-|---------------------------|---------------------------------------------|
+|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Living Atlas (ESRI)                                                                          | <https://livingatlas.arcgis.com/en/browse/>                                                                            |
 | Grenzen                                                                                      | <https://geodata.state.gov/geonetwork/srv/eng/catalog.search#/home>                                                    |
 | Grenzen (IPUMS)                                                                              | <https://international.ipums.org/international/gis.shtml>                                                              |
