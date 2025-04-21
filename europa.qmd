@@ -20,6 +20,8 @@ De lijst bronnen hieronder is een overzicht van relevante websites voor het vind
 +------------------------------------------------+-------------------------------------------------+
 | European Environment Agency                    | <https://www.eea.europa.eu/en/datahub>          |
 +------------------------------------------------+-------------------------------------------------+
+| European Climate Data                          | <https://cds.climate.copernicus.eu/>            |
++------------------------------------------------+-------------------------------------------------+
 | European Soil Data Centre (ESDAC)              | <https://esdac.jrc.ec.europa.eu/>               |
 +------------------------------------------------+-------------------------------------------------+
 | European Space Agency                          | <https://earth.esa.int/eogateway/catalog>       |

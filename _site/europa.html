@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Ronald Visser">
-<meta name="dcterms.date" content="2023-12-11">
+<meta name="dcterms.date" content="2025-04-21">
 
 <title>Ruimtelijke Data voor de leefomgeving - Europese ruimtelijke data</title>
 <style>
@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -60,6 +62,31 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-CR8FTPF4WC"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-CR8FTPF4WC', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"simple",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  });
+});
+</script> 
+  
 
 
 <link rel="stylesheet" href="styles.css">
@@ -86,6 +113,9 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./europa.html" aria-current="page">Europese gegevens</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./wereld.html">Gegevens over de wereld</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html">About</a>
@@ -132,7 +162,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">December 11, 2023</p>
+      <p class="date">April 21, 2025</p>
     </div>
   </div>
     
@@ -159,22 +189,26 @@ ul.task-list li input[type="checkbox"] {
 <td><a href="https://www.eea.europa.eu/en/datahub" class="uri">https://www.eea.europa.eu/en/datahub</a></td>
 </tr>
 <tr class="odd">
+<td>European Climate Data</td>
+<td><a href="https://cds.climate.copernicus.eu/" class="uri">https://cds.climate.copernicus.eu/</a></td>
+</tr>
+<tr class="even">
 <td>European Soil Data Centre (ESDAC)</td>
 <td><a href="https://esdac.jrc.ec.europa.eu/" class="uri">https://esdac.jrc.ec.europa.eu/</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>European Space Agency</td>
 <td><a href="https://earth.esa.int/eogateway/catalog" class="uri">https://earth.esa.int/eogateway/catalog</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Open Street Map (plugin voor QGIS bestaat ook)</td>
 <td><a href="https://www.openstreetmap.org/" class="uri">https://www.openstreetmap.org/</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Frankrijk</p>
 <ul>
 <li><p>LiDAR France</p></li>
@@ -186,11 +220,11 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="https://opendatafrance.fr/les-ressources/" class="uri">https://opendatafrance.fr/les-ressources/</a></p></li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 </tr>
@@ -299,6 +333,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+      <div class="nav-footer-center"><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+  </div>
+</footer>
 
 
 
